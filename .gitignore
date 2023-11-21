@@ -1,0 +1,10 @@
+.idea/
+.venv/
+
+__pycache__/
+
+*/__pycache__/
+
+data/input/
+data/output/
+
